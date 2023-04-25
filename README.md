@@ -1,5 +1,5 @@
 # Project description
-creating custom hooks in react
+Creating custom hooks in react
 
 # Author
 DUSABE Peace
